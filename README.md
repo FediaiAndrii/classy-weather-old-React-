@@ -1,1 +1,2 @@
-Classy Weather (Legacy React / Class Components)
+Classy Weather App
+(Legacy React / Class Components)
